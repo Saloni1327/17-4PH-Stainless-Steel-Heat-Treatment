@@ -386,7 +386,8 @@ A treatment optimized for hardness or tensile strength may sacrifice toughness, 
 │   └── experimental_results.csv
 │
 ├── analysis/
-│   └── property_tradeoff_analysis.ipynb
+│   ├──strength_ductility_plot.py
+|   ├──property_tradeoff_analysis.py
 │
 ├── figures/
 │   ├── heat_treatment_process.jpeg
