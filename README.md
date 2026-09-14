@@ -398,9 +398,6 @@ A treatment optimized for hardness or tensile strength may sacrifice toughness, 
 │   ├── xrd_analysis.png
 │   ├── corrosion_rate.png
 │   ├── corrosion_tafel_data.png
-│   ├── furnace_heat_treatment.jpg
-│   ├── cryogenic_setup.jpg
-│   └── treated_samples.jpg
 │
 └── results/
 ```
